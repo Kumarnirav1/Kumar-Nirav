@@ -38,28 +38,28 @@
     <text x="330" y="80" fill="#2fd9b4" font-size="11">SYSTEM_DATA ─────────────────────────────</text>
 
     <text x="330" y="110" fill="#6b8f8a">Name</text>
-    <text x="470" y="110" fill="#e6fffa">YOUR NAME</text>
+    <text x="470" y="110" fill="#e6fffa">Kumar Nira</text>
 
     <text x="330" y="136" fill="#6b8f8a">Handle</text>
-    <text x="470" y="136" fill="#e6fffa">@your-username</text>
+    <text x="470" y="136" fill="#e6fffa">@Kumarnirav1</text>
 
     <text x="330" y="162" fill="#6b8f8a">Role</text>
-    <text x="470" y="162" fill="#e6fffa">Full-Stack Dev | Security Enthusiast</text>
+    <text x="470" y="162" fill="#e6fffa">Security Enthusiast</text>
 
     <text x="330" y="188" fill="#6b8f8a">Status</text>
     <text x="470" y="188" fill="#e6fffa">Building | Learning | Shipping</text>
 
     <text x="330" y="214" fill="#6b8f8a">Languages</text>
-    <text x="470" y="214" fill="#e6fffa">Python, JavaScript, TypeScript</text>
+    <text x="470" y="214" fill="#e6fffa">Python, JavaScript</text>
 
     <text x="330" y="240" fill="#6b8f8a">Focus</text>
     <text x="470" y="240" fill="#e6fffa">Log analysis, web apps, automation</text>
 
     <text x="330" y="266" fill="#6b8f8a">Projects</text>
-    <text x="470" y="266" fill="#e6fffa">Brute-force log analyzer, Job tracker</text>
+    <text x="470" y="266" fill="#e6fffa">OSint-hub</text>
 
     <text x="330" y="292" fill="#6b8f8a">Contact</text>
-    <text x="470" y="292" fill="#e6fffa">github.com/your-username</text>
+    <text x="470" y="292" fill="#e6fffa">kumar.nirav2805@gmail.com</text>
 
     <!-- blinking cursor -->
     <rect x="330" y="310" width="9" height="14" fill="#5ff5d0">
